@@ -165,13 +165,6 @@ textarea {
     transition: var(--cat-transition);
 }
 
-/* input::-webkit-input-placeholder,
-.input-wrap input::-webkit-input-placeholder,
-.input-wrap textarea::-webkit-input-placeholder,
-textarea::-webkit-input-placeholder {
-    color: var(--cat-placeholder);
-} */
-
 
 .input-wrap label {
     font-weight: 600;
@@ -686,10 +679,6 @@ textarea {
 }
 
 
-
-/**********************************
- 	Service CSS Start
- **********************************/
 
 .cat-service-section {
     background: var(--cat-white);
